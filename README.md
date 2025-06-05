@@ -21,7 +21,7 @@ I'm passionate about building efficient backend systems. Alongside my interest i
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### **Tools & Platforms:**
@@ -35,6 +35,7 @@ I'm passionate about building efficient backend systems. Alongside my interest i
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
+
 ## 🏆 My LeetCode Badges
 
 <p align="center">
@@ -43,17 +44,6 @@ I'm passionate about building efficient backend systems. Alongside my interest i
   <img src="https://s11.gifyu.com/images/S1dCZ.gif" alt="July Badge 2024" width="120px"/>
   <img src="https://s11.gifyu.com/images/S1dUs.gif" alt="June Badge 2024" width="120px"/>
 </p>
-
----
-## 💡 What I'm Currently Learning
-- Machine Learning algorithms and their applications using Python
-- Building BackEnd using node js.
-
----
-
-## 🌱 Current Projects
-- Working on backend authentication systems and learning about React
-- Exploring machine learning models for real-world problems
 
 ---
 
